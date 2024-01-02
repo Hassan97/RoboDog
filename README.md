@@ -1,6 +1,6 @@
 # Hybrid Walk and Roll QuadRuped Robot
 
-- Essential parts
+- Hardware
   | Part name           | Description                          |  Qty     |
   |---------------------|--------------------------------------|-----------|
   | ESP32 LOLIN32       | cpu                                  | 1         |
@@ -12,15 +12,11 @@
   | 1S3P 18650 battery  | lithium ion battery                  | 2         |
   | WS2812 RGB LED      | RGB LED for eyes                     | 2         |
   | Round Rocker Switch | Switch with LED                      | 1         |
-
-- Optional parts
-  | Part name           | Description                          |  Qty     |
-  |---------------------|--------------------------------------|-----------|
   | HX-2S-JH20          | lithium ion 2S charger               | 1         |
   | PDC004-PD 9V        | usb-c PD decoy module                | 1         |
   | STPS2045C           | power shottky rectifier              | 1         |
   | battery indicator   | Lithium Battery Capacity Indicator   | 1         |
-<br><br>
+
 
 Robot control with BLE(bluetooth le) joystick
   | key        |    control    |  key      |  control          |

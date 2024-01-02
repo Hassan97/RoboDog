@@ -36,14 +36,11 @@ Robot control with BLE(bluetooth le) joystick
 
 ----
 # Reference
-  - This is a modified project
-  - Special thanks to
-  - PingguSoft for walking code<br>
-    [](https://github.com/PingguSoft/esp32_quadruped.git)
+  - This is a modified project. I appreciate the work of contributers and all credit goes to them, go checkout thier work.
+  - PingguSoft walking code<br>
+    [PingguSoft](https://github.com/PingguSoft/esp32_quadruped.git)
   - for IK model<br>
     [12-DOF Quadrupedal Robot: InverseKinematics by Adham Elarabawy](https://www.adham-e.dev/pdf/IK_Model.pdf)
   - Kangal cad files<br>
     [Diy quadruped robot by Baris ALP](https://grabcad.com/library/diy-quadruped-robot-1)
-  - SpotMicro cad files<br>
-    [User Fran Ferri models](https://gitlab.com/public-open-source/spotmicroai/3dprinting/-/tree/master/User%20Fran%20Ferri%20models)
 

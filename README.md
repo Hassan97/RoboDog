@@ -36,7 +36,7 @@ Robot control with BLE(bluetooth le) joystick
 
 ----
 # Reference
-  - This is a modified project. I appreciate the work of contributers and all credit goes to them, go checkout thier work.
+  - This is a modified project. I appreciate the work of contributers, all credit goes to them for the awesome work they have done and i appreciate that they opensource their project so that others can benefit from their contribution, go checkout their work.
   - PingguSoft walking code<br>
     [PingguSoft](https://github.com/PingguSoft/esp32_quadruped.git)
   - for IK model<br>
